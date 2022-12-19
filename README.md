@@ -1,0 +1,1 @@
+Esse repositorio contém o código fonte desenvolvido durante o curso Paraller Programing in Java ministrado pela Rice University na Coursera
